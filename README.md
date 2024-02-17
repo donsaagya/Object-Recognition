@@ -1,5 +1,7 @@
 AI model which recognises objects in given images from CIFAR 100 dataset
 
+Code is in jupyter notebook attached
+
 There are 2 models which are trained separately.
 One is a CNN model and the other is an SVM model.
 
