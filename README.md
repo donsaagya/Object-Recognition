@@ -1,4 +1,5 @@
-AI model which recognises objects in given images from CIFAR 100 dataset
+AI model which recognises objects in given images. 
+Both Models are trained using CIFAR 100 dataset
 
 Code is in jupyter notebook attached
 
